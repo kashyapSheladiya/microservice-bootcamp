@@ -1,4 +1,4 @@
-## Microservice Bootcamp
+# Blog Application
 * learning microservice architecture with practical example.
 * NO db is used.
 
