@@ -10,5 +10,5 @@
 * 4000 for posts service
 * 4001 for Comment service
 * 4002 for Query service
-* 4003 for Comment-moderation
+* 4003 for Comment-moderation service
 * 4005 for event-bus
